@@ -1,6 +1,6 @@
 # Assignment 8 
 
-Complete the following exercises by making an R script with code that answers or addresses each question.  
+Clone this repo to your computer and complete the following exercises by making an R script with code that answers or addresses each question.  
 
 * Within the R script, make a collapsable section for each question (e.g. #### Question 1 ####).
 * Include each question as a comment inside of each collapsable section.
